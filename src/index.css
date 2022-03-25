@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 50%;
+    height: 30vh;
+    margin: 150px auto ;
+    box-shadow: 0 0 2px 0 black;
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper p{
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: bolder;
+    background-color:#eee;
+    font-size: 24px;
+    padding: 0 50px;
+}
